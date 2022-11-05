@@ -1,0 +1,4 @@
+fsm.c:19:6:fsm_simple_buttons_run	8	static
+fsm.c:103:6:fsm_Blinking_LED_for_Debugging	8	static
+fsm.c:126:6:inscreases_time	4	static
+fsm.c:134:6:descreases_time	4	static
